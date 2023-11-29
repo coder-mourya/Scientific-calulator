@@ -1,0 +1,29 @@
+.footer {
+    width: 100%;
+    background: #A9B2FB !important;
+
+    
+}
+
+.footer p {
+    color: #5B5B5B;
+    font-family: Fira Sans;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+   
+}
+
+
+
+
+@media (max-width: 768px) {
+    .footer{
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        width: 100%;
+    }
+}

@@ -1,0 +1,27 @@
+.main {
+    background: #FFF;
+    border-radius: 8px;
+    border: 1px solid #D9D9D9;
+    width: 80%;
+}
+
+.custMain-container {
+    height: auto;
+    width: 80%;
+    margin-bottom: 100px;
+
+
+}
+
+
+@media (max-width:768px) {
+    .main {
+        width: 100%;
+
+    }
+
+    .custMain-container {
+        width: 100%;
+        height: 55%;
+    }
+}

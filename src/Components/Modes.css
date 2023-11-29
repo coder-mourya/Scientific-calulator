@@ -1,0 +1,19 @@
+.Modesbtn {
+    border-radius: 6px;
+    background: #D9D9D9;
+    
+}
+
+
+
+.cust-scientificBtn{
+    border: 1px solid #2F4A75;
+    background: linear-gradient(180deg, #05D8E3 0%, #2067D7 100%);
+    color: #FFF;
+    font-family: Fira Sans;
+    
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+

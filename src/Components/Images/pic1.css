@@ -1,0 +1,22 @@
+.pic {
+    height: 445px;
+    max-width: 100%;
+}
+
+
+
+@media (max-width: 768px) {
+    .pic {
+        width: 440px;
+        height: 175px;
+    }
+
+}
+
+@media (min-width: 576px) and (max-width: 767px) {
+
+    .pic {
+        width: 440px;
+        height: 225px;
+    }
+}
