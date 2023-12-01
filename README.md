@@ -1,5 +1,6 @@
-# watch live by click Here 👇
-       (https://sage-dieffenbachia-cc865c.netlify.app/)
+# Scientific Calculator
+
+Welcome to my awesome project! You can check it out live 👉 [here](https://sage-dieffenbachia-cc865c.netlify.app/).
 
 # Getting Started with Create React App
 
